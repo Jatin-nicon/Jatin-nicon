@@ -38,7 +38,7 @@ I believe in **learning by doing + teaching what I learn**.
 **Languages**
 - C
 - JavaScript
-- Python (learning)
+- Python
 
 **Web Development**
 - HTML
